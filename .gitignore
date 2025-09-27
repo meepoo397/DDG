@@ -1,0 +1,10 @@
+*.zip
+*.csv
+*.pt
+*.png
+*.pkl
+*.ttf
+*.json
+*.ipynb_checkpoints/
+*__pycache__/
+*.vscode/
