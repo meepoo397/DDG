@@ -1,0 +1,3 @@
+chen_main.ipynb 是測試生成四張圖片效果的notebook
+generate_and_test_fid.sh 是生成上萬張圖片並跑fid的執行檔
+generate_test.ipynb 是上面.sh的notebook版
